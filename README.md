@@ -1,2 +1,2 @@
 # WordWarden
-Word Warden, an innovative natural language processing (NLP) project designed to mitigate the spread of toxic language in online interactions. The goal of this project will be to use machine learning to identify toxicity in text.
+Word Warden, an innovative natural language processing (NLP) project designed to mitigate the spread of toxic language in online interactions. The goal of this project will be to use machine learning to identify toxicity in text which could be used to help deter users from posting potentially hurtful messages, craft more civil arguments when engaging in discourse with others, and to gauge the toxicity of other users' comments.
